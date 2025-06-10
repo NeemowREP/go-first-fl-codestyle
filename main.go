@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 	"strings"
+	.../123
 )
 
 func randint(min, max int) int {
